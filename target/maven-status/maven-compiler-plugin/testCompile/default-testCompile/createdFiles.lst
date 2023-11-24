@@ -1,0 +1,8 @@
+com\studentapplication\junit\studentsinfo\CreateStudentsDataDrivenTest.class
+com\studentapplication\cucumber\serenity\StudentSerenitySteps.class
+com\studentapplication\testbase\TestBase.class
+com\studentapplication\utils\TestUtils.class
+com\studentapplication\junit\studentsinfo\FirstSerenityTest.class
+com\studentapplication\junit\studentsinfo\StudentsCRUDTest.class
+com\studentapplication\utils\ReusableSpecifications.class
+com\studentapplication\junit\studentsinfo\TagsTest.class

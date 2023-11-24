@@ -1,0 +1,72 @@
+# Created at 2023-11-23T20:45:59.699
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.700
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.691 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:45:59.723
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.724
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.722 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:45:59.725
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.726
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.723 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:45:59.795
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.795
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.794 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.compromised.on=java.io.FileNotFoundException'.
+
+# Created at 2023-11-23T20:45:59.796
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.797
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.794 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.project.name=StudentApplication'.
+
+# Created at 2023-11-23T20:45:59.805
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:45:'.
+
+# Created at 2023-11-23T20:45:59.805
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '59.804 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - "@tags"=studentfeature:NEGATIVE'.
+
+# Created at 2023-11-23T20:46:00.225
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.225
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.224 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:46:00.233
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.234
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.232 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:46:00.236
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.237
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.235 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\DynaPar\eclipse-workspace\StudentApplication\serenity.properties'.
+
+# Created at 2023-11-23T20:46:00.238
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.238
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.237 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.compromised.on=java.io.FileNotFoundException'.
+
+# Created at 2023-11-23T20:46:00.239
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.240
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.237 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - serenity.project.name=StudentApplication'.
+
+# Created at 2023-11-23T20:46:00.242
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '20:46:'.
+
+# Created at 2023-11-23T20:46:00.242
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '00.241 [main] DEBUG n.t.c.u.PropertiesFileLocalPreferences - "@tags"=studentfeature:NEGATIVE'.
+

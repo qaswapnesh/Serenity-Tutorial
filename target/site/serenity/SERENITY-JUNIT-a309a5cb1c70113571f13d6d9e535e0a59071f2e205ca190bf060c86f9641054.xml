@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="com.studentapplication.junit.studentsinfo.FirstSerenityTest" skipped="4" tests="13" time="19.48" timestamp="2023-11-23 08:46:05"><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="File does not exists"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="File does not exists"><compromised message="E:\file1.txt (The system cannot find the path specified)" type="java.io.FileNotFoundException">E:\file1.txt (The system cannot find the path specified)</compromised><system-err>E:\file1.txt (The system cannot find the path specified)&#13;
+StudentApplication@0.0.1-SNAPSHOT/com.studentapplication.junit.studentsinfo.FirstSerenityTest.fileDoesNotExists(FirstSerenityTest.java:62)&#13;
+</system-err></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a failing test"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a failing test"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+StudentApplication@0.0.1-SNAPSHOT/com.studentapplication.junit.studentsinfo.FirstSerenityTest.thisIsAFailingTest(FirstSerenityTest.java:41)&#13;
+</system-err></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a skipped test"><skipped/></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This test will bring information of all students from the students app"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This test will bring information of all students from the students app"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a pending test"><skipped/></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a manual test"><skipped/></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a test with error"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="This is a test with error"><error message="/ by zero" type="java.lang.ArithmeticException">/ by zero</error><system-err>/ by zero&#13;
+StudentApplication@0.0.1-SNAPSHOT/com.studentapplication.junit.studentsinfo.FirstSerenityTest.thisIsATestWithError(FirstSerenityTest.java:56)&#13;
+</system-err></testcase><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="Get all students"/><testcase classname="com.studentapplication.junit.studentsinfo.FirstSerenityTest" name="Get all students"/></testsuite>

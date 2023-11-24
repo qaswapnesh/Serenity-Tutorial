@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Students CRUD test","This test will create a new student","SUCCESS","2023-11-23T20:46:05.0692523+05:30[Asia/Calcutta]","0.0","16.56"
+"Students CRUD test","Verify if the student was added to the application","SUCCESS","2023-11-23T20:46:21.669477+05:30[Asia/Calcutta]","0.0","4.62"
+"Students CRUD test","Update the user information and verify updated information","SUCCESS","2023-11-23T20:46:26.2947055+05:30[Asia/Calcutta]","0.0","0.0"
+"Students CRUD test","Delete the student and verify if student is there","SUCCESS","2023-11-23T20:46:29.5578257+05:30[Asia/Calcutta]","0.0","0.37"

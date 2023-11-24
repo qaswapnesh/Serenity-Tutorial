@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This test will bring information of all students from the students app","SUCCESS","2023-11-23T20:46:21.2049924+05:30[Asia/Calcutta]","0.0","2.16"
+"First serenity test","Get all students","SUCCESS","2023-11-23T20:46:23.4494492+05:30[Asia/Calcutta]","0.0","1.76"

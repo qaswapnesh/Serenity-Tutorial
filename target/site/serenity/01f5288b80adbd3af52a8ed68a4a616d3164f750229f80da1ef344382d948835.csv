@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Students CRUD test","This test will create a new student","SUCCESS","2023-11-23T20:46:05.0692523+05:30[Asia/Calcutta]","0.0","16.56"
+"First serenity test","This test will bring information of all students from the students app","SUCCESS","2023-11-23T20:46:21.2049924+05:30[Asia/Calcutta]","0.0","2.16"
+"Students CRUD test","Verify if the student was added to the application","SUCCESS","2023-11-23T20:46:21.669477+05:30[Asia/Calcutta]","0.0","4.62"
+"First serenity test","Get all students","SUCCESS","2023-11-23T20:46:23.4494492+05:30[Asia/Calcutta]","0.0","1.76"
+"Create students data driven test","Data Driven Test for adding multiple students to the Student APp","SUCCESS","2023-11-23T20:46:25.3036184+05:30[Asia/Calcutta]","0.0","200.77"
+"Students CRUD test","Update the user information and verify updated information","SUCCESS","2023-11-23T20:46:26.2947055+05:30[Asia/Calcutta]","0.0","0.0"
+"Students CRUD test","Delete the student and verify if student is there","SUCCESS","2023-11-23T20:46:29.5578257+05:30[Asia/Calcutta]","0.0","0.37"
